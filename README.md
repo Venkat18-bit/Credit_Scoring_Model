@@ -24,3 +24,5 @@ It predicts whether a customer is likely to default based on historical credit a
 git clone https://github.com/yourusername/credit-scoring-project.git
 cd credit-scoring-project
 pip install -r requirements.txt
+
+python src/train_model.py
